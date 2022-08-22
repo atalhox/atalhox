@@ -1,16 +1,15 @@
-### Hi there 👋
+# Luis Felipe Brum
 
-<!--
-**atalhox/atalhox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Luis Felipe Brum, desenvolvedor Backend, com experiência em segurança da informação e arquitetura de integração. 
 
-Here are some ideas to get you started:
+## Minhas redes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.felipebrum.com"><img src="https://avatars.githubusercontent.com/u/53919226"  width="40"> 
+<a href="https://br.linkedin.com/in/luisfelipebrum"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="40">      
+<a href="https://www.instagram.com/eunaoeradev"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"  width="40">  
+<a href="https://www.tiktok.com/@eunaoeradev"><img src="https://i.pinimg.com/originals/22/0a/62/220a624ba2fa59ddda4db763f474f50f.jpg"  width="40">
+
+## Como colaborar
+
+Por favor, colabore. Para obter detalhes sobre o meu processo para envio de pedidos de melhorias: 
+[clique aqui](https://gist.github.com/atalhox/adb28140d9c08ce4d2b3ea6ddbe21c63).
