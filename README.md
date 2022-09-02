@@ -14,7 +14,9 @@ Por favor, colabore. Para obter detalhes sobre o meu processo para envio de pedi
 
 ## Projetos
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atalhox" alt="atalhox" /></a> </p>
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atalhox&theme=nord&margin-w=15" alt="atalhox" ></a> 
+</p>
 
 - 🔭 Atualmente estou trabalhando em [neste projeto](https://github.com/atalhox/rich-text-editor)
 
