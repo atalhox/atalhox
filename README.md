@@ -29,13 +29,9 @@ Por favor, colabore. Para obter detalhes sobre o meu processo para envio de pedi
 
 ## Entre em contato
 
-<p align="left">
-<a href="https://twitter.com/eunaoeradev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eunaoeradev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luisfelipebrum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisfelipebrum" height="30" width="40" /></a>
-<a href="https://instagram.com/eunaoeradev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eunaoeradev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC2u2J8gwgyb2oazmxWFL5xw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc2u2j8gwgyb2oazmxwfl5xw" height="30" width="40" /></a>
-</p>
 
+<a href="https://www.felipebrum.com"><img src="https://avatars.githubusercontent.com/u/53919226"  width="40"> <a href="https://br.linkedin.com/in/luisfelipebrum"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="40"> <a href="https://www.instagram.com/eunaoeradev"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"  width="40"> <a href="https://www.tiktok.com/@eunaoeradev"><img src="https://i.pinimg.com/originals/22/0a/62/220a624ba2fa59ddda4db763f474f50f.jpg"  width="40">
+<a href="https://twitter.com/eunaoeradev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40">
 
 ## Linguagens e ferramentas
 
