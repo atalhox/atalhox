@@ -65,21 +65,13 @@ Por favor, colabore. Para obter detalhes sobre o meu processo para envio de pedi
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.elastic.co/kibana" rel="nofollow"> <img src="https://camo.githubusercontent.com/dbc1482101cfa71adf795a200aa1b832d4ccbba9719b2d6e91a67192caf45d75/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f656c6173746963636f5f6b6962616e612f656c6173746963636f5f6b6962616e612d69636f6e2e737667" alt="kibana" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" style="max-width: 100%;"> </a>
-  
   <a href="https://kubernetes.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/e2046333bbd304d658f954a536f663f793365a2b2d1f687a6559faa9491c7cc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b756265726e657465732f6b756265726e657465732d69636f6e2e737667" alt="kubernetes" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="max-width: 100%;"> </a>
-  
   <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
-  
   <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
-  
   <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
-  
   <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a>
-  
   <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
-  
   <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
-  
   <a href="https://spring.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a>
   
 ## Analytics
