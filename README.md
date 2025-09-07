@@ -8,7 +8,7 @@ I’m **Luis Felipe Brum**, a Backend Developer with expertise in **information 
 
 ## 🚀 About Me
 
-- 🌱 Currently coding in **Java with Spring Boot**  
+- 🌱 Currently coding in **Node.js and Next.js**  
 - 👨‍💻 All my projects are available here: [atalhox](https://github.com/atalhox)  
 - 💡 Open to collaboration and sharing ideas.  
 
@@ -57,7 +57,7 @@ Here’s an updated version of your **Skills and Tech Stack** section, organized
   <a href="https://www.broadcom.com/" target="_blank"> 
     <img src="https://techdocs.broadcom.com/etc.clientlibs/broadcom/clientlibs/clientlib-site/resources/assets/avago-logo.png" alt="CA Broadcom Layer 7" width="180" height="40"/></a> 
   <!-- Kong Gateway -->
-  <a href="https://konghq.com/" target="_blank"><img src="https://docs.konghq.com/assets/images/logos/konglogo-dark-theme.svg" alt="Kong Gateway" width="150" height="40"/></a> 
+  <a href="https://konghq.com/" target="_blank"><img src="https://ramonduraes.net/wp-content/uploads/2021/04/kong.png" alt="Kong Gateway" width="150" height="40"/></a> 
 </p>
 
 ### 🛠️ Tools
